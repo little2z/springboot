@@ -17,7 +17,7 @@ public class GlobalExceptionHandler {
     @ExceptionHandler(value = Exception.class)
     public ModelAndView defaultErrorHandler(HttpServletRequest req, Exception e) throws Exception {
         ModelAndView mav = new ModelAndView();
-        mav.addObject("exception", e);
+        mav.addObject("exception", e.getMessage());
         mav.addObject("url", req.getRequestURL());
         System.out.println("url:"+req.getRequestURL());
         mav.setViewName(DEFAULT_ERROR_VIEW);

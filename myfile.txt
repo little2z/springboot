@@ -1,0 +1,127 @@
+2017-12-27 14:24:30,890 [INFO] [com.xyl.springboot.UserControllerTests.logStarting(48)] Starting UserControllerTests on ZB-PC0DHW7B with PID 11160 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-27 14:24:30,891 [DEBUG] [com.xyl.springboot.UserControllerTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-27 14:24:30,892 [INFO] [com.xyl.springboot.UserControllerTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-27 19:50:37,973 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 10700 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-27 19:50:37,994 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-27 19:50:37,995 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-27 19:50:50,482 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 12.897 seconds (JVM running for 13.584)
+2017-12-27 19:52:00,208 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 9012 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-27 19:52:00,212 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-27 19:52:00,212 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-27 19:52:10,805 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 10.986 seconds (JVM running for 11.581)
+2017-12-29 11:07:06,983 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 5576 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 11:07:06,987 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 11:07:06,988 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 11:07:20,769 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 14.33 seconds (JVM running for 15.284)
+2017-12-29 11:21:51,850 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 8964 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 11:21:51,854 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 11:21:51,855 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 11:22:03,779 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 12.339 seconds (JVM running for 12.921)
+2017-12-29 11:30:24,349 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 8964 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 11:30:24,349 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 11:30:24,350 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 11:30:27,298 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 2.995 seconds (JVM running for 516.466)
+2017-12-29 11:31:00,607 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 17264 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 11:31:00,609 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 11:31:00,610 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 11:31:11,680 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 11.412 seconds (JVM running for 11.916)
+2017-12-29 11:31:54,911 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 17264 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 11:31:54,912 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 11:31:54,912 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 11:31:57,810 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 2.951 seconds (JVM running for 58.049)
+2017-12-29 11:33:41,187 [DEBUG] [com.xyl.springboot.controller.LogController.testLogLevel(16)] Logger level:debug
+2017-12-29 11:33:41,187 [INFO] [com.xyl.springboot.controller.LogController.testLogLevel(17)] Logger level:debug
+2017-12-29 11:33:41,188 [ERROR] [com.xyl.springboot.controller.LogController.testLogLevel(18)] Logger level:debug
+2017-12-29 11:44:18,168 [DEBUG] [com.xyl.springboot.controller.LogController.testLogLevel(16)] Logger level:debug
+2017-12-29 11:44:18,172 [INFO] [com.xyl.springboot.controller.LogController.testLogLevel(17)] Logger level:debug
+2017-12-29 11:44:18,172 [ERROR] [com.xyl.springboot.controller.LogController.testLogLevel(18)] Logger level:debug
+2017-12-29 11:46:14,817 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 17264 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 11:46:14,817 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 11:46:14,818 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 11:46:17,620 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 2.845 seconds (JVM running for 917.746)
+2017-12-29 11:46:35,157 [DEBUG] [com.xyl.springboot.controller.LogController.testLogLevel(16)] Logger level:debug
+2017-12-29 11:46:35,158 [INFO] [com.xyl.springboot.controller.LogController.testLogLevel(17)] Logger level:info
+2017-12-29 11:46:35,158 [ERROR] [com.xyl.springboot.controller.LogController.testLogLevel(18)] Logger level:error
+2017-12-29 11:47:07,973 [DEBUG] [com.xyl.springboot.controller.LogController.testLogLevel(16)] Logger level:debug
+2017-12-29 11:47:07,973 [INFO] [com.xyl.springboot.controller.LogController.testLogLevel(17)] Logger level:info
+2017-12-29 11:47:07,973 [ERROR] [com.xyl.springboot.controller.LogController.testLogLevel(18)] Logger level:error
+2017-12-29 11:47:36,716 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 17264 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 11:47:36,716 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 11:47:36,717 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 11:47:39,070 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 2.381 seconds (JVM running for 999.191)
+2017-12-29 11:47:44,965 [DEBUG] [com.xyl.springboot.controller.LogController.testLogLevel(16)] Logger level:debug
+2017-12-29 11:47:44,966 [INFO] [com.xyl.springboot.controller.LogController.testLogLevel(17)] Logger level:info
+2017-12-29 11:47:44,966 [ERROR] [com.xyl.springboot.controller.LogController.testLogLevel(18)] Logger level:error
+2017-12-29 11:48:25,440 [DEBUG] [com.xyl.springboot.controller.LogController.testLogLevel(16)] Logger level:debug
+2017-12-29 11:48:25,440 [INFO] [com.xyl.springboot.controller.LogController.testLogLevel(17)] Logger level:info
+2017-12-29 11:48:25,441 [ERROR] [com.xyl.springboot.controller.LogController.testLogLevel(18)] Logger level:error
+2017-12-29 14:09:59,390 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarting(48)] Starting SpringbootExampleApplication on ZB-PC0DHW7B with PID 11464 (D:\workspace\myWorkspace\springboot\target\classes started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 14:09:59,393 [DEBUG] [com.xyl.springboot.SpringbootExampleApplication.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 14:09:59,394 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 14:10:10,001 [INFO] [com.xyl.springboot.SpringbootExampleApplication.logStarted(57)] Started SpringbootExampleApplication in 10.895 seconds (JVM running for 11.441)
+2017-12-29 14:10:21,962 [DEBUG] [com.xyl.springboot.controller.LogController.testLogLevel(16)] Logger level:debug
+2017-12-29 14:10:21,962 [INFO] [com.xyl.springboot.controller.LogController.testLogLevel(17)] Logger level:info
+2017-12-29 14:10:21,964 [ERROR] [com.xyl.springboot.controller.LogController.testLogLevel(18)] Logger level:error
+2017-12-29 14:10:53,614 [DEBUG] [com.xyl.springboot.controller.LogController.testLogLevel(16)] Logger level:debug
+2017-12-29 14:10:53,615 [INFO] [com.xyl.springboot.controller.LogController.testLogLevel(17)] Logger level:info
+2017-12-29 14:10:53,616 [ERROR] [com.xyl.springboot.controller.LogController.testLogLevel(18)] Logger level:error
+2017-12-29 17:13:34,304 [INFO] [com.xyl.springboot.dao.CityDaoTests.logStarting(48)] Starting CityDaoTests on ZB-PC0DHW7B with PID 17432 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 17:13:34,305 [DEBUG] [com.xyl.springboot.dao.CityDaoTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 17:13:34,305 [INFO] [com.xyl.springboot.dao.CityDaoTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 17:13:45,163 [INFO] [com.xyl.springboot.dao.CityDaoTests.logStarted(57)] Started CityDaoTests in 11.24 seconds (JVM running for 12.581)
+2017-12-29 17:17:29,283 [INFO] [com.xyl.springboot.dao.CityDaoTests.logStarting(48)] Starting CityDaoTests on ZB-PC0DHW7B with PID 18232 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 17:17:29,283 [DEBUG] [com.xyl.springboot.dao.CityDaoTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 17:17:29,284 [INFO] [com.xyl.springboot.dao.CityDaoTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 17:17:39,654 [INFO] [com.xyl.springboot.dao.CityDaoTests.logStarted(57)] Started CityDaoTests in 10.78 seconds (JVM running for 11.637)
+2017-12-29 17:17:39,961 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==>  Preparing: insert into city(id, name, province_id) values(?, ?, ?) 
+2017-12-29 17:17:39,997 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==> Parameters: 0(Long), 北京(String), 1(Long)
+2017-12-29 17:17:40,022 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] <==    Updates: 1
+2017-12-29 17:19:46,705 [INFO] [com.xyl.springboot.dao.CityDaoTests.logStarting(48)] Starting CityDaoTests on ZB-PC0DHW7B with PID 7808 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 17:19:46,705 [DEBUG] [com.xyl.springboot.dao.CityDaoTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 17:19:46,706 [INFO] [com.xyl.springboot.dao.CityDaoTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 17:19:57,859 [INFO] [com.xyl.springboot.dao.CityDaoTests.logStarted(57)] Started CityDaoTests in 11.526 seconds (JVM running for 12.383)
+2017-12-29 17:19:58,055 [DEBUG] [com.xyl.springboot.dao.CityDao.findCityById.debug(159)] ==>  Preparing: select id, name, province_id from city where id = ? 
+2017-12-29 17:19:58,084 [DEBUG] [com.xyl.springboot.dao.CityDao.findCityById.debug(159)] ==> Parameters: 1(Long)
+2017-12-29 17:19:58,123 [DEBUG] [com.xyl.springboot.dao.CityDao.findCityById.debug(159)] <==      Total: 1
+2017-12-29 17:35:04,774 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarting(48)] Starting CityServiceTests on ZB-PC0DHW7B with PID 14844 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 17:35:04,775 [DEBUG] [com.xyl.springboot.service.CityServiceTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 17:35:04,775 [INFO] [com.xyl.springboot.service.CityServiceTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 17:35:15,220 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarted(57)] Started CityServiceTests in 10.799 seconds (JVM running for 11.664)
+2017-12-29 17:35:15,373 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==>  Preparing: insert into city(id, name, province_id) values(?, ?, ?) 
+2017-12-29 17:35:15,410 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==> Parameters: 0(Long), 南昌(String), 2(Long)
+2017-12-29 17:35:15,447 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] <==    Updates: 1
+2017-12-29 17:39:31,168 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarting(48)] Starting CityServiceTests on ZB-PC0DHW7B with PID 15132 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 17:39:31,169 [DEBUG] [com.xyl.springboot.service.CityServiceTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 17:39:31,169 [INFO] [com.xyl.springboot.service.CityServiceTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 17:39:41,246 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarted(57)] Started CityServiceTests in 10.394 seconds (JVM running for 11.252)
+2017-12-29 17:39:41,411 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==>  Preparing: insert into city(id, name, province_id) values(?, ?, ?) 
+2017-12-29 17:39:41,445 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==> Parameters: 0(Long), 上饶(String), 2(Long)
+2017-12-29 17:39:41,452 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] <==    Updates: 1
+2017-12-29 17:54:20,963 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarting(48)] Starting CityServiceTests on ZB-PC0DHW7B with PID 17436 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 17:54:20,964 [DEBUG] [com.xyl.springboot.service.CityServiceTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 17:54:20,965 [INFO] [com.xyl.springboot.service.CityServiceTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 17:54:31,748 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarted(57)] Started CityServiceTests in 11.141 seconds (JVM running for 12.042)
+2017-12-29 17:54:31,957 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==>  Preparing: insert into city(id, name, province_id) values(?, ?, ?) 
+2017-12-29 17:54:31,993 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==> Parameters: 0(Long), 九江(String), 2(Long)
+2017-12-29 17:54:32,001 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] <==    Updates: 1
+2017-12-29 18:04:22,360 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarting(48)] Starting CityServiceTests on ZB-PC0DHW7B with PID 7532 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 18:04:22,361 [DEBUG] [com.xyl.springboot.service.CityServiceTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 18:04:22,361 [INFO] [com.xyl.springboot.service.CityServiceTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 18:04:33,431 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarted(57)] Started CityServiceTests in 11.489 seconds (JVM running for 12.433)
+2017-12-29 18:04:33,611 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==>  Preparing: insert into city(id, name, province_id) values(?, ?, ?) 
+2017-12-29 18:04:33,649 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==> Parameters: 0(Long), 丰城(String), 2(Long)
+2017-12-29 18:04:33,710 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] <==    Updates: 1
+2017-12-29 18:05:34,335 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarting(48)] Starting CityServiceTests on ZB-PC0DHW7B with PID 15396 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 18:05:34,336 [DEBUG] [com.xyl.springboot.service.CityServiceTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 18:05:34,336 [INFO] [com.xyl.springboot.service.CityServiceTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 18:05:44,920 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarted(57)] Started CityServiceTests in 11.027 seconds (JVM running for 11.968)
+2017-12-29 18:05:45,085 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==>  Preparing: insert into city(id, name, province_id) values(?, ?, ?) 
+2017-12-29 18:05:45,125 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==> Parameters: 0(Long), 丰城2(String), 2(Long)
+2017-12-29 18:05:45,126 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] <==    Updates: 1
+2017-12-29 18:06:58,778 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarting(48)] Starting CityServiceTests on ZB-PC0DHW7B with PID 17096 (started by xieyinglin in D:\workspace\myWorkspace\springboot)
+2017-12-29 18:06:58,779 [DEBUG] [com.xyl.springboot.service.CityServiceTests.logStarting(51)] Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2017-12-29 18:06:58,779 [INFO] [com.xyl.springboot.service.CityServiceTests.logStartupProfileInfo(593)] No active profile set, falling back to default profiles: default
+2017-12-29 18:07:09,271 [INFO] [com.xyl.springboot.service.CityServiceTests.logStarted(57)] Started CityServiceTests in 10.925 seconds (JVM running for 11.825)
+2017-12-29 18:07:09,494 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==>  Preparing: insert into city(id, name, province_id) values(?, ?, ?) 
+2017-12-29 18:07:09,530 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] ==> Parameters: 0(Long), 丰城3(String), 2(Long)
+2017-12-29 18:07:09,532 [DEBUG] [com.xyl.springboot.dao.CityDao.save.debug(159)] <==    Updates: 1

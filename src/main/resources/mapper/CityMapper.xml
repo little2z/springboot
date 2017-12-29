@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xyl.springboot.dao.CityDao">
+	<resultMap id="BaseResultMap" type="com.xyl.springboot.domain.third.City">
+		<id column="id" jdbcType="BIGINT" property="id" />
+		<result column="name" jdbcType="VARCHAR" property="name" />
+    	<result column="province_id" jdbcType="BIGINT" property="provinceId" />
+	</resultMap>
+
+	<parameterMap id="city" type="com.xyl.springboot.domain.third.City"/>
+
+	<sql id="Base_Column_List">
+		id, name, province_id
+	</sql>
+
+	<select id="findCityById" resultMap="BaseResultMap" parameterType="java.lang.Long">
+		select
+		<include refid="Base_Column_List" />
+		from 
+			city
+		where 
+			id = #{cityId,jdbcType=BIGINT}
+	</select>
+	
+	<insert id="save" parameterMap="city">
+		insert into city(id, name, province_id) values(#{id,jdbcType=BIGINT}, #{name, jdbcType=VARCHAR}, #{provinceId, jdbcType=BIGINT})
+	</insert>
+	
+</mapper>
