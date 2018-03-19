@@ -19,7 +19,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @MapperScan(basePackages = "com.xyl.springboot.dao", sqlSessionFactoryRef = "thirdSqlSessionFactory")
 public class ThirdConfig {
 	
-	static final String PACKAGE = "org.spring.springboot.dao.master";
     static final String MAPPER_LOCATION = "classpath:mapper/**/*.xml";
 	
 	@Resource(name="thirdDataSource")
